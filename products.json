@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Հոթ դոգ 1հատ",
+        "price": "300 դր.\\n1հատ/300 դր.",
+        "src": "https://www.sas.am/upload/Sh/imageCache/235/624/624260666230390.png"
+    },
+    {
+        "name": "Հոթ դոգ 1հատ",
+        "price": "230 դր.\\n1հատ/230 դր.",
+        "src": "https://www.sas.am/upload/Sh/imageCache/145/776/776914559973207.png"
+    },
+    {
+        "name": "Բուլկի չամիչով «SAS Sweet» 1 հատ",
+        "price": "230 դր.\\n1հատ/230 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/422/803/803451666230390.png"
+    },  
+    {
+        "name": "Բուլկի չամիչով «SAS Sweet» 1 հատ",
+        "price": "280 դր.\\n1հատ/280 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/422/803/803451666230390.png"
+    },
+    {
+        "name": "Բուլկի կակաչի սերմերով «SAS Sweet»  1 հատ",
+        "price": "160 դր.\\n1հատ/160 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/324/060/0609433784175770.png"
+    },
+    {
+        "name": "Բուլկի կակաչի սերմերով «SAS Sweet» 1 հատ",
+        "price": "320 դր.\\n1հատ/320 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/324/060/0609433784175770.png"
+    },
+    {
+        "name": "Գալետ «SAS Product» ",
+        "price": "370 դր.\\n1հատ/370 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/387/658/6589043220509991.jpg"
+    },
+    {
+        "name": "Գալետ «SAS Product»",
+        "price": "680 դր.\\n1հատ/680 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/387/658/6589043220509991.jpg"
+    },
+    {
+        "name": "Բուլկի կրեմով «SAS Sweet» 1 հատ",
+        "price": "570 դր.\\n1հատ/570 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/184/998/9989264253074056.png"
+    },
+    {
+        "name": "Բուլկի կրեմով «SAS Sweet» 1 հատ",
+        "price": "570 դր.\\n1հատ/570 դր.",
+        "src":"https://www.sas.am/upload/Sh/imageCache/184/998/9989264253074056.png"
+    }
+]

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+}
+
+
+.main {
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 50px;
+    width: 100%;
+    row-gap: 250px;
+    justify-items: start;
+    background-color: antiquewhite;
+}
+
+.productCard {
+    display: grid;
+    width:60px;
+    height: 80px;
+    justify-items: center;
+}
+
+
+.image {
+    height: 150px;
+    width: 200px;
+}
+
+.menu {
+    display: grid;
+    grid-template-columns: auto auto
+}
+
+.basket {
+    padding-left: 1050px;
+}
+
+#getProducts {
+    width: 200px;
+}
